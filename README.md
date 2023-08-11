@@ -81,6 +81,6 @@ License
 This project is licensed under the MIT License.
 Author
 
-[Your Name]
+Alejandro Salinas Medina
 
 Note: Before sharing or pushing your project to GitHub, make sure to add a .gitignore file to avoid uploading large dataset files or unnecessary files. Also, this is a basic README structure. Depending on the scope of your project, you might need to include more sections like 'Contribution', 'Acknowledgments', etc.
